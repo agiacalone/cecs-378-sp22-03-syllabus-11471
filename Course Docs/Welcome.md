@@ -18,10 +18,10 @@ Topic: CECS 378 SEC 03 Lecture Session
 Time: Jan 24, 2022 08:00 AM Pacific Time (US and Canada)
 
 Join Zoom Meeting
-https://csulb.zoom.us/j/89018603276?pwd=VmRUSlVQbVRSaldnTGlxT3J0Sk0vdz09
+https://csulb.zoom.us/j/89018603276
 
 Meeting ID: 890 1860 3276
-Passcode: 491527
+Passcode: 
 
 ```
 
