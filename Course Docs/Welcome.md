@@ -1,5 +1,3 @@
-[DATE]
-
 Welcome to CECS 378!
 
 I hope that you all have had a great and relaxing winter break and you are ready to dive in to Computer Security. In preparation for class this week, I have some things that I would like you to do before we hold our first class session. Please review all of these items as soon as you are able to:
